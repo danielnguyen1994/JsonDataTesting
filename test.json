@@ -1,0 +1,218 @@
+{
+    "ghostList": [
+        {
+            "timeStamp": [
+                533.0,
+                2013.0
+            ],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [
+                123231.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        },
+        {
+            "timeStamp": [],
+            "position": [],
+            "rotation": []
+        }
+    ],
+    "steps": [
+        {
+            "stepName": "Test123",
+            "stepDescription": "DD",
+            "timeBetweenSteps": []
+        },
+        {
+            "stepName": "A",
+            "stepDescription": "D",
+            "timeBetweenSteps": []
+        },
+        {
+            "stepName": "B",
+            "stepDescription": "E",
+            "timeBetweenSteps": []
+        },
+        {
+            "stepName": "C",
+            "stepDescription": "F",
+            "timeBetweenSteps": []
+        }
+    ]
+}
